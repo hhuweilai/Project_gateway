@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/cam_test.dir/src/camera_test.c.o -o cam_test 

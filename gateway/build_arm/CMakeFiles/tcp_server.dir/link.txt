@@ -1,0 +1,1 @@
+/usr/local/arm/gcc-linaro-4.9.4-2017.01-x86_64_arm-linux-gnueabihf/bin/arm-linux-gnueabihf-gcc CMakeFiles/tcp_server.dir/src/tcp_server.c.o CMakeFiles/tcp_server.dir/src/tlv_protocol.c.o CMakeFiles/tcp_server.dir/src/mes_handler.c.o -o tcp_server 

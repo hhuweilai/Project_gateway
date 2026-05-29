@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/gpio_test.dir/src/gpio_led.c.o -o gpio_test 

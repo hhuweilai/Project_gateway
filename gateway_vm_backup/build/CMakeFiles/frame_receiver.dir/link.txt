@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/frame_receiver.dir/src/frame_receiver.c.o CMakeFiles/frame_receiver.dir/src/tlv_protocol.c.o CMakeFiles/frame_receiver.dir/src/mes_handler.c.o -o frame_receiver 

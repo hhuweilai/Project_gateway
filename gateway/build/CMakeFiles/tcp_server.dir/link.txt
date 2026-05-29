@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/tcp_server.dir/src/tcp_server.c.o CMakeFiles/tcp_server.dir/src/tlv_protocol.c.o CMakeFiles/tcp_server.dir/src/mes_handler.c.o -o tcp_server 

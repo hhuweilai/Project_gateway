@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/bh1750_test.dir/src/bh1750_test.c.o -o bh1750_test 

@@ -1,0 +1,1 @@
+obj-y := virtual_bh1750.o

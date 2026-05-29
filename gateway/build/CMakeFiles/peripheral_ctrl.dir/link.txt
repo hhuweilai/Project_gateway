@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/peripheral_ctrl.dir/src/peripheral_ctrl.c.o -o peripheral_ctrl 

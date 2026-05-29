@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/tcp_client.dir/src/tcp_client.c.o CMakeFiles/tcp_client.dir/src/tlv_protocol.c.o CMakeFiles/tcp_client.dir/src/mes_handler.c.o -o tcp_client 

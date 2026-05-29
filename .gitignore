@@ -1,0 +1,29 @@
+﻿# 编译产物
+*.o
+*.ko
+*.mod.c
+*.mod
+*.symvers
+*.order
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+
+# 内核镜像
+*.dtb
+*.dtbo
+Image
+zImage
+uImage
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统文件
+Thumbs.db
+.DS_Store

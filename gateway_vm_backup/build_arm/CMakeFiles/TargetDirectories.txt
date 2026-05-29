@@ -1,0 +1,11 @@
+/home/weilai/projects/gateway/build_arm/CMakeFiles/hello.dir
+/home/weilai/projects/gateway/build_arm/CMakeFiles/gpio_test.dir
+/home/weilai/projects/gateway/build_arm/CMakeFiles/cam_test.dir
+/home/weilai/projects/gateway/build_arm/CMakeFiles/bh1750_test.dir
+/home/weilai/projects/gateway/build_arm/CMakeFiles/peripheral_ctrl.dir
+/home/weilai/projects/gateway/build_arm/CMakeFiles/tcp_server.dir
+/home/weilai/projects/gateway/build_arm/CMakeFiles/tcp_client.dir
+/home/weilai/projects/gateway/build_arm/CMakeFiles/gateway_app.dir
+/home/weilai/projects/gateway/build_arm/CMakeFiles/frame_receiver.dir
+/home/weilai/projects/gateway/build_arm/CMakeFiles/edit_cache.dir
+/home/weilai/projects/gateway/build_arm/CMakeFiles/rebuild_cache.dir
